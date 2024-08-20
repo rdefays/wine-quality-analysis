@@ -1,4 +1,24 @@
-# Wine_Quality
+# Wine Quality Analysis
+
+## Overview
+
+This project focuses on exploring and analyzing a wine quality dataset to enhance data science skills. The dataset is sourced from Kaggle and contains various attributes related to wine quality. The key objectives of this project are:
+
+- **Data Exploration**: Understand the dataset, perform data cleaning, and handle missing values or outliers.
+- **Data Visualization**: Create visualizations to uncover patterns and insights within the data.
+- **Dimensionality Reduction**: Apply Principal Component Analysis (PCA) to reduce the dimensionality of the dataset and visualize it in 2D.
+- **Regression Models**: Develop and evaluate regression models to predict wine quality.
+- **Classification Models**: Implement classification models to categorize wine quality into distinct classes.
+- **Performance Evaluation**: Use metrics such as ROC curves and confusion matrices to assess model performance.
+
+### Project Structure
+
+- **Data Exploration and Cleaning**: Noteboos for initial data exploration and preprocessing.
+- **Visualization**: Code for generating visualizations and insights.
+- **Dimensionality Reduction**: PCA implementation and results.
+- **Models**: Regression and classification models, including hyperparameter tuning and evaluation.
+- **Reports**: Results and findings from the analysis, including visualizations and performance metrics.
+
 
 ## Overview
 
@@ -10,14 +30,19 @@ This project focuses on exploring a dataset to enhance data science skills. The 
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data](#data)
-- [Objectives](#objectives)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+- [Wine Quality Analysis](#wine-quality-analysis)
+  - [Overview](#overview)
+    - [Project Structure](#project-structure)
+  - [Overview](#overview-1)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Data](#data)
+  - [Objectives](#objectives)
+  - [Results](#results)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Introduction
 
@@ -25,16 +50,16 @@ This project is designed to improve data science skills by working with a real-w
 
 ## Installation
 
-To set up the project, follow these steps:
+To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/rdefays/wine-quality-analysis.git
     ```
 
 2. **Navigate to the Project Directory:**
     ```bash
-    cd your-repo-name
+    cd wine-quality-analysis
     ```
 
 3. **Install Dependencies:**
